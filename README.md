@@ -3,6 +3,25 @@
 </h1>
 <h3>Desenvolvedor Python-End </h3>
 
+##
+📖Eu estou estudando sobre desenvolvimento de sistemas.
+
+
+💻Eu estou aprendendo a programar em python!
+
+
+📨Meu email: portelajose51@gmail.com
+
+
+###
+<div align="center">
+  <a href="https://github.com/joaovitoralvesportela"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitoralvesportela&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitoralvesportela&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
