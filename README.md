@@ -15,9 +15,9 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/joaovitoralvesportela"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitoralvesportela&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitoralvesportela&layout=compact&langs_count=16&theme=dark" />
+  <a href="https://github.com/joaovitoralvesportela">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitoralvesportela&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoralvesportela&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
@@ -34,15 +34,3 @@
   <img align="center" alt="Joao_Vitor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
