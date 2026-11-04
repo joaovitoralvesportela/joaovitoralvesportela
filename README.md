@@ -7,7 +7,7 @@
 📖Eu estou estudando sobre desenvolvimento de sistemas.
 
 
-💻Eu estou aprendendo a programar em python!
+💻Eu estou aprendendo a programar!
 
 
 📨Meu email: portelajose51@gmail.com
