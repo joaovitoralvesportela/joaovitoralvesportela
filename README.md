@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/decode-reveal.gif" alt="Decode Reveal, animated ASCII art" width="720">
+  <img width="1280" height="640" alt="decode-reveal-1280x640" src="https://github.com/user-attachments/assets/ba28e1be-4a97-41b9-a334-a4cdbd27fdaa" />
 </p>
 
 <h3>Desenvolvedor full-stack</h3>
