@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Joao+Vitor+Alves+Portela!" alt="Olá! Sou Joao Vitor Alves Portela!" />
 </h1>
 
-<h3>Desenvolvedor Python-End</h3>
+<h3>Desenvolvedor full-stack</h3>
 
 ##
 
