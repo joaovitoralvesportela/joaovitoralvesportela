@@ -1,40 +1,41 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Joao+Vitor+Alves+Portela!" alt="Olá! Sou Joao Vitor Alves Portela!" />
-</h1>
+<h2 data-importer="text" align="left">technologies</h2>
 
-<p align="center">
-  <img width="1280" height="640" alt="decode-reveal-1280x640" src="https://github.com/user-attachments/assets/ba28e1be-4a97-41b9-a334-a4cdbd27fdaa" />
-</p>
+###
 
-<h3>Desenvolvedor full-stack</h3>
-
-##
-
-📖 Eu estou estudando sobre desenvolvimento de sistemas.
-
-💻 Eu estou aprendendo a programar!
-
-📨 Meu email: portelajose51@gmail.com
-
-##
-
-<div align="center">
-  <a href="https://github.com/joaovitoralvesportela">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovitoralvesportela&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaovitoralvesportela&layout=compact&langs_count=16&theme=dark" />
-  </a>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/joaovitoralvesportela/joaovitoralvesportela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/joaovitoralvesportela/joaovitoralvesportela/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/joaovitoralvesportela/joaovitoralvesportela/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="UML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg">
-  <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<h2 data-importer="text" align="left">technologies</h2>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/joaovitoralvesportela/joaovitoralvesportela/snake-output/snake.svg" alt="Snake animation" />
+
+###
